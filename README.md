@@ -2,9 +2,9 @@
 
 Repositório feito para inserção do projeto de desafio na EBAC | React : 3 dias de imersão.
 
-[Petrus Borges - Blog de Posts](https://blog-posts-staart.vercel.app)
+[Petrus Borges - Desafio EBAC](https://desafio-ebac-react-js.vercel.app)
 
-![01](https://user-images.githubusercontent.com/105453766/183299285-c78b23d7-6e6e-4d2f-9baa-6851ad35f9e2.jpg)
+![image](https://user-images.githubusercontent.com/105453766/184180636-a1e574b3-b892-4813-8823-39ed1ad9d443.png)
 
 ## 📋 Projeto
 
